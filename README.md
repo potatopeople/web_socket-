@@ -10,4 +10,5 @@
 <p><img src="resources/static/images/注册成功.png"></p>
 <p><img src="resources/static/images/聊天室界面.png"></p>
 <p><img src="resources/static/images/切换账号.png"></p>
+https://note.youdao.com/yws/public/resource/145416a97b5e836f139f114be28703c4/xmlnote/ABD61C7906364B3AAA07A8DC7335B4A5/1699
 
